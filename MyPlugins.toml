@@ -1,0 +1,14 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'qpkorr/vim-renamer'
+
+[[plugins]]
+repo = 'hrp/EnhancedCommentify'
+
+[[plugins]]
+repo = 'vim-scripts/zoom.vim'
+
+[[plugins]]
+repo = 'cocopon/vaffle.vim'
